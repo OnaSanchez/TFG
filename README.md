@@ -17,7 +17,7 @@ i fàcil d’aplicar.
 ## Materials produïts
 Dins de la carpeta TFG, es troben diversos fitxers i carpetes necessaris per a la realització de l'estudi.
 
-- main.py: És l'arxiu principal que s'ha de executar. Conté crides a funcions essencials per a la creació de la base de dades, realitza la neteja de les dades proporcionades i executa l'anàlisi de les dades, guardant els resultats.
+- main.py: És l'arxiu principal que s'ha de executar. Conté crides a funcions essencials per a la creació de la base de dades, realitza la neteja de les dades proporcionades i executa l'anàlisi, guardant els resultats.
 
 - Carpeta database: Conté l'arxiu mongo.py, responsable de la interacció amb la base de dades MongoDB. Les funcions d'aquest fitxer es dediquen a la creació de les col·leccions 'Usuari', 'Senyal', 'Mesura', 'Test_psico' i 'Sessió' a una base de dades MongoDB, afegint les dades corresponents.
 
