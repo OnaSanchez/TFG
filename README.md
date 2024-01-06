@@ -24,3 +24,7 @@ Dins de la carpeta TFG, es troben diversos fitxers i carpetes necessaris per a l
 - Carpeta data_analysis: Conté l'arxiu analysis.py, que inclou funcions per a l'estudi de les dades, implementa models de regressió aplicats als conjunts de dades i genera gràfics per facilitar la visualització de l'estructura de les dades i el seu anàlisi. També s'hi troba l'arxiu dataset.py, format per funcions relacionades amb la preparació i neteja del conjunt de dades per a l'anàlisi.
 
 Aquesta estructura separa clarament les funcions relacionades amb el processament de dades, la connectivitat a la base de dades i l'anàlisi estadística, dividint el projecte en tasques específiques.
+
+## Autora
+
+- Ona Sánchez Núñez, NIU: 1601181
