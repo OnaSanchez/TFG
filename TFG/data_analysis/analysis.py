@@ -226,24 +226,6 @@ def Bayes(x, y, t = 1e-6):
 
 
 
-def GradBoost(x, y):
-    """
-    Input:
-        x (array-like): The feature matrix.
-        y (array-like): The target variable.
-
-    Description:
-        Train a Gradient Boosting regression model.
-
-    Output:
-        GradientBoostingRegressor: The trained Gradient Boosting regression model.
-    """
-    regr = GradientBoostingRegressor(n_estimators=100, learning_rate=0.1, max_depth=3, random_state=42)
-    regr.fit(x, y)
-    return regr
-
-
-
 def combination(A, n_conj):
     """
     Input:
